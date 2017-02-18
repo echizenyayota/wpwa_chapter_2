@@ -2,3 +2,5 @@
 [18-Feb-2017 01:59:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /var/www/wordpress/wp-content/plugins/wpwa-user-manager/class-wpwa-user-manager.php on line 20
 [18-Feb-2017 01:59:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /var/www/wordpress/wp-content/plugins/wpwa-user-manager/class-wpwa-user-manager.php on line 20
 [18-Feb-2017 01:59:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /var/www/wordpress/wp-content/plugins/wpwa-user-manager/class-wpwa-user-manager.php on line 20
+[18-Feb-2017 02:09:02 UTC] PHP Fatal error:  Call to undefined function va_dump() in /var/www/wordpress/wp-content/plugins/wpwa-user-manager/class-wpwa-user-manager.php on line 24
+[18-Feb-2017 02:09:29 UTC] PHP Notice:  Undefined variable: this in /var/www/wordpress/wp-content/plugins/wpwa-user-manager/class-wpwa-user-manager.php on line 24
