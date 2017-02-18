@@ -10,6 +10,7 @@
 class WPWA_User_Manager {
   public function __construct() {
     // 初期化コード
+    register_activation_hook( __FILE__ , array( $this, 'add_application_user_roles' ) );
   }
 }
 
